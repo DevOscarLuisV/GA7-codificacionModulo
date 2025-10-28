@@ -6,13 +6,13 @@
    - MySQL  
 
 2. Crear base de datos:
-  CREATE DATABASE empleadosdb;
+   - CREATE DATABASE empleadosdb;
 
 3. EDITAR 
   src/main/resources/application.properties:
-   spring.datasource.url=jdbc:mysql://localhost:3306/empleadosdb
-   spring.datasource.username=root
-   spring.datasource.password=tu_clave
+   - spring.datasource.url=jdbc:mysql://localhost:3306/empleadosdb
+   - spring.datasource.username=root
+   - spring.datasource.password=tu_clave
 
 4. Ejecutar desde IntelliJ:
    mvn spring-boot:run
