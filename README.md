@@ -1,8 +1,7 @@
 # Instalación del Proyecto
 
 1. Instalar:
-   - Java JDK 24 o superior  
-   - Maven  
+   - Java JDK 24 o superior
    - MySQL  
 
 2. Crear base de datos:
